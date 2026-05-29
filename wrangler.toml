@@ -3,7 +3,16 @@ main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
+[[routes]]
+pattern = "ifdsjifds.isdebug.com"
+custom_domain = true
+
+
+[vars]
+ADMIN = "dUx415Uk1MCjLhZ8AaqZJG1kz5"
+HOST = "ifdsjifds.isdebug.com"
+
 [[kv_namespaces]]
 binding = "KV"
-id = "KV"
+id = "19b5c07dc5634c0189afe18d4a1141e8"
 
