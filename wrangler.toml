@@ -16,3 +16,5 @@ HOST = "ifdsjifds.isdebug.com"
 binding = "KV"
 id = "19b5c07dc5634c0189afe18d4a1141e8"
 
+[placement]
+mode = "smart"
