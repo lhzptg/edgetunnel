@@ -20,7 +20,7 @@ id = "19b5c07dc5634c0189afe18d4a1141e8"
 mode = "smart"
 
 [observability]
-enabled = false
+enabled = true
 head_sampling_rate = 1
 
 [observability.logs]
