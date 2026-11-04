@@ -6,3 +6,7 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "19b5c07dc5634c0189afe18d4a1141e8"
+
+
+[vars]
+ADMIN = "RBCJ!Gre=:L+zCJ]PUxKngP2$Gre{[.h"
